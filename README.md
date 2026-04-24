@@ -182,8 +182,6 @@ Minor floating-point non-determinism may occur across different GPU hardware.
 
 ---
 
-## NeurIPS Report Template
+## Created By
 
-[NeurIPS 2024 Overleaf Template](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh)
-
-Report structure: Abstract → Introduction → Related Work → Method → Experiments → Results → Discussion → Conclusion → References
+Rafiur Rahman Shoishab
