@@ -34,7 +34,7 @@ project/
 
 ## Tasks Implemented
 
-### ✅ Easy Task (Cells 9–14)
+### ✅ Easy Task 
 
 | Component | Detail |
 |-----------|--------|
@@ -45,7 +45,7 @@ project/
 | **Baseline** | PCA (16 components) + K-Means on raw MFCC |
 | **Metrics** | Silhouette Score, Calinski-Harabasz Index |
 
-**Easy Task Outputs (`results/`)**
+**Outputs (`results/`)**
 
 | File | Description |
 |------|-------------|
@@ -57,7 +57,7 @@ project/
 
 ---
 
-### ✅ Medium Task (Cells 15–23)
+### ✅ Medium Task 
 
 | Component | Detail |
 |-----------|--------|
@@ -68,7 +68,7 @@ project/
 | **Lyrics** | `paraphrase-multilingual-MiniLM-L12-v2` — handles English + Bangla |
 | **Metrics** | Silhouette, Calinski-Harabasz, Davies-Bouldin, ARI, NMI, Cluster Purity |
 
-**Medium Task Outputs (`results/`)**
+** Outputs (`results/`)**
 
 | File | Description |
 |------|-------------|
@@ -97,6 +97,8 @@ Total runtime estimate: **~2.5–3 hours** (feature extraction ~30 min + 3 model
 ---
 
 ## Dataset
+
+Dataset Link: https://drive.google.com/drive/folders/1UOpMtGPB6F9B2nH01poLufWTcn0eqoB9?usp=drive_link
 
 **GTZAN Genre Collection** — loaded automatically via HuggingFace:
 - 1,000 tracks across 10 genres: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock
